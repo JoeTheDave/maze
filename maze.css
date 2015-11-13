@@ -1,0 +1,7 @@
+body { background-color:#A3A294; }
+.clear { clear:both; }
+.main-container { background-color:#DDDDDD; border:solid 2px #333333; width:662px; padding:10px; margin:10px auto 0px auto; }
+.square { float:left; background-color:#FFFFFF; }
+.mazePath { background-color:#FFFFFF; }
+.mazeExit { background-color:#66FF66; }
+.currentPosition { background-color:#9999FF; }
